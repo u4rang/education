@@ -1,2 +1,5 @@
-# education
-This repository is to take classes for ChaeFather.
+# 교육
+# 2022년
+
+- ##### SW Architect 문서화
+
